@@ -1,7 +1,7 @@
 
 ## MoviesAPI
 
-Is my first API witch I created from scratch.
+Is my first API which I created from scratch.
 
 
 
